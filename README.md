@@ -16,5 +16,5 @@ Durante a execução, foram encontrados **9 bugs**, sendo os mais críticos:
 * **Falta de Validação de Dados:** O sistema aceita formulários 100% em branco, datas de término anteriores ao início, e não possui limite máximo para o campo numérico de vagas.
 
 ## 🔗 Entregáveis
-* 📊 **[Planilha de Casos de Teste e Bugs]** -> `(COLE O LINK DO SEU GOOGLE SHEETS AQUI)`
-* 📁 **[Evidências (Prints dos Bugs)]** -> `(COLE O LINK DO SEU GOOGLE DRIVE AQUI)`
+* 📊 **[Planilha de Casos de Teste e Bugs]** -> `(https://docs.google.com/spreadsheets/d/1FhkTd9XmNUY3J9G8EhsqHXDsUy3OJZtapr-xN-_vIBA/edit?usp=sharing)`
+* 📁 **[Evidências (Prints dos Bugs)]** -> `(https://drive.google.com/drive/folders/1LXpOLBo1ib9FLfG2prfVmIvotFJq7jog?usp=sharing)`
